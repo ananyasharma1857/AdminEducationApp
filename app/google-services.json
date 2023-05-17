@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990680940670",
+    "project_id": "dce-ggn-b97aa",
+    "storage_bucket": "dce-ggn-b97aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990680940670:android:68687fde4fe046a0c0182f",
+        "android_client_info": {
+          "package_name": "com.example.adminappdceggn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990680940670-o1q3jduq5t8repl2r8vpddmfhuteqtug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBucNDWiMHQSuESWTnmnutHclI8hiLL6r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990680940670-o1q3jduq5t8repl2r8vpddmfhuteqtug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
