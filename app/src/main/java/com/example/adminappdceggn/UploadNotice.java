@@ -37,7 +37,7 @@ public class UploadNotice extends AppCompatActivity {
     private EditText noticeTitle;
     private Button uploadNoticeButton;
     private DatabaseReference reference;
-    private StorageReference reference;
+
     private StorageReference storageReference;
     String downloadUrl;
 
@@ -125,5 +125,13 @@ public class UploadNotice extends AppCompatActivity {
             }
             noticeImageView.setImageBitmap(bitmap);
         }
+    }
+
+    public DatabaseReference getReference() {
+        return reference;
+    }
+
+    public void setReference(DatabaseReference reference) {
+        this.reference = reference;
     }
 }
